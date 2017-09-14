@@ -1,6 +1,6 @@
 # React Native Tips
 
-## fonts
+### Fonts
 Adding custom fonts to an Android project:
 - copy your .ttf fonts to /android/app/src/main/assets/fonts
 - rename your fonts to be all lower case and no spaces: Roboto Light.ttf will be robotolight.ttf
